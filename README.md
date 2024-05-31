@@ -4,6 +4,9 @@ Project Overview
 This project focuses on identifying fake profiles in social networks using machine learning techniques. By leveraging the power of the Random Forest algorithm, the system aims to detect fraudulent accounts with high accuracy. Social networks are increasingly plagued by fake profiles that can spread misinformation, conduct fraudulent activities, and harm genuine users. Our solution provides a robust method to mitigate these risks and enhance the security of social media platforms.
 
 Methodology
+
+
+
 Algorithm:
 We use the Random Forest algorithm, known for its efficiency and accuracy in classification tasks. This ensemble method combines multiple decision trees to improve prediction accuracy and control over-fitting. The algorithm is particularly effective in handling large datasets and providing reliable feature importance metrics.
 
